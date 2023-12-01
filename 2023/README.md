@@ -3,11 +3,10 @@ My attempts at the [Advent of Code 2023](https://adventofcode.com/2023) challeng
 
 ## Solutions
 
-| Day | Name        | Code                             | Input Data                         | Time †                                                                                                                                                                                                            |
-|-----|-------------|----------------------------------|------------------------------------|-------------
-| 01  | Trebuchet?! | [src/Day01.php](./src/Day01.php) | [src/Day01.data](./src/Day01.data) | `0.002655s`
+| Day | Name        | Code                             | Input Data                                                                                                                                                                                                                                  |
+|-----|-------------|----------------------------------|------------------------------------
+| 01  | Trebuchet?! | [src/Day01.php](./src/Day01.php) | [src/Day01.data](./src/Day01.data) 
 
-† The measured execution time in GitHub Actions
 
 ## How to run
 
@@ -69,6 +68,4 @@ These can be run quickly from the Makefile:
 ```shell
 make lint
 ```
-
-## Attribution
 
