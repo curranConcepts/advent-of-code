@@ -2,10 +2,10 @@ My attempts at the [Advent of Code 2023](https://adventofcode.com/2023) challeng
 
 ## Solutions
 
-| Day | Name        | Code                             | Input Data                                                                                                                                                                                                                                  |
-|-----|-------------|----------------------------------|------------------------------------
-| 01  | Trebuchet?! | [src/Day01.php](./src/Day01.php) | [src/Day01.data](./src/Day01.data) 
-
+| Day | Name            | Code                             | Input Data                                                                                                                                                                                                                                  |
+|-----|-----------------|----------------------------------|------------------------------------
+| 01  | Trebuchet?!     | [src/Day01.php](./src/Day01.php) | [src/Day01.data](./src/Day01.data)
+| 02  | Cube Conundrum  | [src/Day02.php](./src/Day02.php) | [src/Day02.data](./src/Day02.data)
 
 ## How to run
 
