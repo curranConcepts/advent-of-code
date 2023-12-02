@@ -1,12 +1,13 @@
 {
     "autoload": {
         "psr-4": {
-            "Aoc\\": "src/"
+            "Aoc\\": "src/",
+            "Aoc\\Tests\\": "tests/"
         }
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "*",
         "vimeo/psalm": "^5.16",
-        "phpunit/phpunit": "^10"
+        "phpunit/phpunit": "^10.5"
     }
 }
