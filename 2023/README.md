@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/XYCG1k0L/tis-the-season.png" width="50%">
+  <img src="https://i.postimg.cc/XYCG1k0L/tis-the-season.png" width="75%">
 </p>
 <hr />
 
