@@ -6,6 +6,7 @@ My attempts at the [Advent of Code 2023](https://adventofcode.com/2023) challeng
 |-----|-----------------|----------------------------------|------------------------------------
 | 01  | Trebuchet?!     | [src/Day01.php](./src/Day01.php) | [src/Day01.data](./src/Day01.data)
 | 02  | Cube Conundrum  | [src/Day02.php](./src/Day02.php) | [src/Day02.data](./src/Day02.data)
+| 03  | Gear Ratios     | [src/Day03.php](./src/Day03.php) | [src/Day03.data](./src/Day03.data)
 
 ## How to run
 
