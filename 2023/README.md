@@ -1,4 +1,7 @@
-My attempts at the [Advent of Code 2023](https://adventofcode.com/2023) challenges in [PHP](https://www.php.net).
+<p align="center">
+  <img src="https://i.postimg.cc/RZ86GQSZ/AoC.png" width="50%">
+</p>
+<hr />
 
 ## Solutions
 
