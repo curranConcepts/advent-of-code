@@ -5,12 +5,14 @@
 
 ## Solutions
 
-| Day | Name            | Code                             | Input Data                                                                                                                                                                                                                                  |
-|-----|-----------------|----------------------------------|------------------------------------
-| 01  | Trebuchet?!     | [src/Day01.php](./src/Day01.php) | [src/Day01.data](./src/Day01.data)
-| 02  | Cube Conundrum  | [src/Day02.php](./src/Day02.php) | [src/Day02.data](./src/Day02.data)
-| 03  | Gear Ratios     | [src/Day03.php](./src/Day03.php) | [src/Day03.data](./src/Day03.data)
-| 04  | Scratchcards    | [src/Day04.php](./src/Day04.php) | [src/Day04.data](./src/Day04.data)
+| Day | Name            | Code                             |    Benchmark †                                                                                                                                                                                                                                 |
+|-----|-----------------|----------------------------------|------------------
+| 01  | Trebuchet?!     | [src/Day01.php](./src/Day01.php) |    0.001971s
+| 02  | Cube Conundrum  | [src/Day02.php](./src/Day02.php) |    0.000715s
+| 03  | Gear Ratios     | [src/Day03.php](./src/Day03.php) |    0.001589s
+| 04  | Scratchcards    | [src/Day04.php](./src/Day04.php) |    0.001010s
+
+† Benchmark durations are an average of 10 samples
 
 ## How to run
 
