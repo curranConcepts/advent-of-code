@@ -5,12 +5,13 @@
 
 ## Solutions
 
-| Day | Name            | Code                             |    Benchmark †                                                                                                                                                                                                                                 |
-|-----|-----------------|----------------------------------|------------------
-| 01  | Trebuchet?!     | [src/Day01.php](./src/Day01.php) |    0.001971s
-| 02  | Cube Conundrum  | [src/Day02.php](./src/Day02.php) |    0.000715s
-| 03  | Gear Ratios     | [src/Day03.php](./src/Day03.php) |    0.001589s
-| 04  | Scratchcards    | [src/Day04.php](./src/Day04.php) |    0.001010s
+| Day | Name                            | Code                             | Benchmark †  |                                                                                                                                                                                                                               |
+|-----|---------------------------------|----------------------------------|--------------|
+| 01  | Trebuchet?!                     | [src/Day01.php](./src/Day01.php) | `0.001971s`  |
+| 02  | Cube Conundrum                  | [src/Day02.php](./src/Day02.php) | `0.000715s`  |
+| 03  | Gear Ratios                     | [src/Day03.php](./src/Day03.php) | `0.001589s`  |
+| 04  | Scratchcards                    | [src/Day04.php](./src/Day04.php) | `0.001010s`  |
+| 05  | If You Give A Seed A Fertilizer | [src/Day05.php](./src/Day05.php) | `0.000280s`  |
 
 † Benchmark durations are an average of 10 samples
 
