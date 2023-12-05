@@ -5,7 +5,7 @@
 
 ## Solutions
 
-| Day | Name                            | Code                             | Benchmark †  |                                                                                                                                                                                                                               |
+| Day | Name                            | Code                             | Benchmark †                                                                                                                                                                                                                                 |
 |-----|---------------------------------|----------------------------------|--------------|
 | 01  | Trebuchet?!                     | [src/Day01.php](./src/Day01.php) | `0.001971s`  |
 | 02  | Cube Conundrum                  | [src/Day02.php](./src/Day02.php) | `0.000715s`  |
