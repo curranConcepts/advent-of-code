@@ -12,7 +12,7 @@
 | 03  | Gear Ratios                     | [src/Day03.php](./src/Day03.php) | `0.001589s`  |
 | 04  | Scratchcards                    | [src/Day04.php](./src/Day04.php) | `0.001010s`  |
 | 05  | If You Give A Seed A Fertilizer | [src/Day05.php](./src/Day05.php) | `0.001833s`  |
-
+| 06  | Wait For It                     | [src/Day06.php](./src/Day06.php) | `0.000076s`  |
 † Benchmark durations are an average of 10 samples
 
 ## How to run
