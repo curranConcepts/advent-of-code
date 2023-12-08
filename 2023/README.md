@@ -14,6 +14,7 @@
 | 05  | If You Give A Seed A Fertilizer | [src/Day05.php](./src/Day05.php) | `0.001833s`  |
 | 06  | Wait For It                     | [src/Day06.php](./src/Day06.php) | `0.000076s`  |
 | 07  | Camel Cards                     | [src/Day07.php](./src/Day07.php) | `0.239075s`  |
+| 08  | Haunted Wasteland               | [src/Day08.php](./src/Day08.php) | `0.018875s`  |
 
 † Benchmark durations are an average of 10 samples
 
