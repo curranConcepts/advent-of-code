@@ -15,6 +15,7 @@
 | 06  | Wait For It                     | [src/Day06.php](./src/Day06.php) | `0.000076s`  |
 | 07  | Camel Cards                     | [src/Day07.php](./src/Day07.php) | `0.239075s`  |
 | 08  | Haunted Wasteland               | [src/Day08.php](./src/Day08.php) | `0.018875s`  |
+| 09  | Mirage Maintenance              | [src/Day09.php](./src/Day09.php) | `0.006341s`  |
 
 † Benchmark durations are an average of 10 samples
 
