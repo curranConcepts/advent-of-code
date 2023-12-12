@@ -17,6 +17,7 @@
 | 08  | Haunted Wasteland               | [src/Day08.php](./src/Day08.php) | `0.018875s`  |
 | 09  | Mirage Maintenance              | [src/Day09.php](./src/Day09.php) | `0.006341s`  |
 | 10  | Pipe Maze                       | [src/Day10.php](./src/Day10.php) | `0.008622s`  |
+| 11  | Cosmic Expansion                | [src/Day11.php](./src/Day11.php) | `0.134003s`  |
 
 † Benchmark durations are an average of 10 samples
 
