@@ -19,6 +19,7 @@
 | 10  | Pipe Maze                       | [src/Day10.php](./src/Day10.php) | `0.008622s`  |
 | 11  | Cosmic Expansion                | [src/Day11.php](./src/Day11.php) | `0.134003s`  |
 | 12  | Hot Springs                     | [src/Day12.php](./src/Day12.php) | ``           |
+| 13  | Point of Incidence              | [src/Day13.php](./src/Day13.php) | `0.015861s`  |
 
 † Benchmark durations are an average of 10 samples
 
