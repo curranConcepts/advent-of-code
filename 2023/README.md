@@ -20,6 +20,7 @@
 | 11  | Cosmic Expansion                | [src/Day11.php](./src/Day11.php) | `0.134003s`  |
 | 12  | Hot Springs                     | [src/Day12.php](./src/Day12.php) | ``           |
 | 13  | Point of Incidence              | [src/Day13.php](./src/Day13.php) | `0.015861s`  |
+| 14  | Parabolic Reflector Dish        | [src/Day14.php](./src/Day14.php) | `0.996860s`  |
 
 † Benchmark durations are an average of 10 samples
 
