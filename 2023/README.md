@@ -21,6 +21,8 @@
 | 12  | Hot Springs                     | [src/Day12.php](./src/Day12.php) | ``           |
 | 13  | Point of Incidence              | [src/Day13.php](./src/Day13.php) | `0.015861s`  |
 | 14  | Parabolic Reflector Dish        | [src/Day14.php](./src/Day14.php) | `0.996860s`  |
+| 15  | Lens Library                    |                                  | Not Started  |
+| 16  | The Floor Will Be Lava          | [src/Day16.php](./src/Day16.php) | `5.479180s`  |
 
 † Benchmark durations are an average of 10 samples
 
