@@ -35,10 +35,9 @@ Analyze the unusual data from the engineers. How many reports are safe?
 */
 
 $inputFileName = 'input.txt';
-
 $reports = getInputFromFile($inputFileName);
-
 $validReports = [];
+
 foreach ($reports as $report) {
     if (validateReport($report)) {
         $validReports[] = $report;
@@ -65,11 +64,13 @@ function validateReport(array $report): bool
 {
     $isIncreasing = areLevelsIncreasing($report);
     $isDecreasing = areLevelsDecreasing($report);
+
     if ($isIncreasing === $isDecreasing) {
         return false;
     }
 
     $previousLevel = null;
+
     foreach ($report as $level) {
         if (is_null($previousLevel)) {
             $previousLevel = $level;
@@ -78,6 +79,7 @@ function validateReport(array $report): bool
         }
 
         $validLevel = validateLevel($level, $previousLevel, $isIncreasing, $isDecreasing);
+
         if (!$validLevel) {
             return false;
         }

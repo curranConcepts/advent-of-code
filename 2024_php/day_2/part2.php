@@ -21,11 +21,10 @@ Update your analysis by handling situations where the Problem Dampener can remov
 */
 
 $inputFileName = 'input.txt';
-
 $reports = getInputFromFile($inputFileName);
-
 $validReports = [];
 $validReportsWithDampener = [];
+
 foreach ($reports as $report) {
     if (validateReport($report)) {
         $validReports[] = $report;
@@ -45,6 +44,7 @@ function getInputFromFile(string $fileName): array
     }
 
     $input = file($fileName, FILE_IGNORE_NEW_LINES);
+
     if (empty($input) || !is_array($input)) {
         throw new Exception(sprintf('Empty input file with name: %s', $fileName));
     }
@@ -71,11 +71,13 @@ function validateReport(array $report): bool
 {
     $isIncreasing = areLevelsIncreasing($report);
     $isDecreasing = areLevelsDecreasing($report);
+
     if ($isIncreasing === $isDecreasing) {
         return false;
     }
 
     $previousLevel = null;
+
     foreach ($report as $level) {
         if (is_null($previousLevel)) {
             $previousLevel = $level;
@@ -84,6 +86,7 @@ function validateReport(array $report): bool
         }
 
         $validLevel = validateLevel($level, $previousLevel, $isIncreasing, $isDecreasing);
+
         if (!$validLevel) {
             return false;
         }
